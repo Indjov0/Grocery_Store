@@ -1,0 +1,16 @@
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.exe.config
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.exe
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.pdb
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.dll
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.xml
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Grocery_Shop.csproj.AssemblyReference.cache
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.HranitelenMagazin.resources
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.Migrations.Migration.resources
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.Properties.Resources.resources
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Grocery_Shop.csproj.GenerateResource.cache
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Grocery_Shop.csproj.CoreCompileInputs.cache
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Grocery_.1EAD8302.Up2Date
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.exe
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.pdb
